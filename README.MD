@@ -1,3 +1,5 @@
+**For a GPK mod version (Not a proxy script), go here: (https://github.com/teralove/remove-artisan-icons)**
+
 # No Artisan Icons
 Removes the artisan mastery icons from name plates.
 
