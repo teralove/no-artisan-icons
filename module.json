@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+	"name": "no-artisan-icons",
+	"author": "teralove",
+	"description": "Removes artisan icons from player nameplates",
+    "version": "1/28/2019",
+    "donationUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PXRFYB39SQP4A",  
+	"options": {
+		"niceName": "No Artisan Icons"
+	},
+    "servers": ["https://raw.githubusercontent.com/teralove/no-artisan-icons/master/"],
+    "supportUrl": "https://github.com/teralove/no-artisan-icons/issues"
+}
