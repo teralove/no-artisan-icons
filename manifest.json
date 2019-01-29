@@ -1,0 +1,9 @@
+{
+	"files": {
+		"index.js": "3488f436ed71b9b54e39ea00e89a3c22bc21af80f43de497ce9e7e1259cc7711",
+        "module.json": "dbb07b2a6ca14024375d68e64ba5654d9445410b04c19d7d558e1e9e11bb9605"
+	},
+	"defs": {
+		"S_SPAWN_USER": 14
+	}
+}
