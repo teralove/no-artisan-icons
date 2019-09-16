@@ -4,6 +4,6 @@
         "module.json": "dbb07b2a6ca14024375d68e64ba5654d9445410b04c19d7d558e1e9e11bb9605"
 	},
 	"defs": {
-		"S_SPAWN_USER": 14
+		"S_SPAWN_USER": 15
 	}
 }
