@@ -1,7 +1,7 @@
 {
 	"files": {
-		"index.js": "3488f436ed71b9b54e39ea00e89a3c22bc21af80f43de497ce9e7e1259cc7711",
-        "module.json": "dbb07b2a6ca14024375d68e64ba5654d9445410b04c19d7d558e1e9e11bb9605"
+		"index.js": "dfb9228a9eb66a0fcd48353144733f4041e3d7dc4f7c41c3bc61b130432479bf",
+        "module.json": "5e83a28e9d1bc564c7c73e8abf5bf65e840e855c8e77a0b0786f844f7b9743b6"
 	},
 	"defs": {
 		"S_SPAWN_USER": 15
